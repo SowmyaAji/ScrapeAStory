@@ -55,5 +55,19 @@ will output:
 
 ```
 
+To ask for other variables, like exerpts.last or excerpts.length, you just need to type 
+
+```
+(byebug) continue
+
+```
+
+To exit byebug, you just need to type
+
+```
+(byebug) exit
+
+```
+
 
 
